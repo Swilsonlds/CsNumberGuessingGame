@@ -1,0 +1,15 @@
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.exe
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.deps.json
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.runtimeconfig.json
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.dll
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.pdb
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.AssemblyInfo.cs
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.dll
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\refint\numberGuessingGame.dll
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.pdb
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.genruntimeconfig.cache
+C:\Users\Spenc\OneDrive\Desktop\School\Spring 2023\Personal\numberGuessingGame\obj\Debug\net6.0\ref\numberGuessingGame.dll
